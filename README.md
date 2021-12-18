@@ -1,4 +1,4 @@
 # desafio-dio
 Desafio de Projeto Git/GitHub
-## LINK Úties
+## Links Úties
 [Sintax Markdown](https://www.markdownguide.org/basic-syntax/)
